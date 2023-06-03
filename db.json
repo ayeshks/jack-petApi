@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "basics",
+      "imageSrc": "product1.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 2,
+      "name": "basics",
+      "imageSrc": "product2.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 3,
+      "name": "basics",
+      "imageSrc": "product3.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 4,
+      "name": "basics",
+      "imageSrc": "product4.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 5,
+      "name": "basics",
+      "imageSrc": "product4.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 6,
+      "name": "basics",
+      "imageSrc": "product4.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 7,
+      "name": "basics",
+      "imageSrc": "product4.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    },
+    {
+      "id": 7,
+      "name": "basics",
+      "imageSrc": "product4.png",
+      "imageAlt": "Front of men's Basic Tee in black.",
+      "price": "$35",
+      "color": "Black"
+    }
+
+]
